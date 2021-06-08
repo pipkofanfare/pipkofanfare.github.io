@@ -106,7 +106,6 @@ $(document).ready(function() {
         let button = $(event.relatedTarget); // Button that triggered the modal
         let url = button.data("video");      // Extract url from data-video attribute
         let title = button.data("title");
-        console.log("LOG: "+ button + title + url);
         $("#videoModalLabel").text(title);
         $(this).find("iframe").attr({
             src : url
