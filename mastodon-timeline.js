@@ -10,9 +10,9 @@ document.addEventListener("DOMContentLoaded", () => {
 		instance_uri: 'https://tech.lgbt/',
 		user_id: '109618355264693412',
 		profile_name: '@sarafanfare',
-		toots_limit: 13,
+		toots_limit: 5,
 		hide_reblog: false,
-		hide_replies: false,		
+		hide_replies: true,		
 		btn_see_more: 'See more posts at Mastodon'
 	});
 });
