@@ -39,7 +39,7 @@
   padding: 1rem 0 2rem 65px;
   position: relative;
   min-height: 60px;
-  background-color: transparent;
+  background-color: #303030;
   border-bottom: 1px solid #dee2e6;
 }
 .mt-toot:hover {
