@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", () => {
 	let mapi = new MastodonApi({
 		container_id: 'mt-timeline',
 		container_body_id: 'mt-body',
-		instance_uri: 'https://mastodon.online',
-		user_id: '180745',
-		profile_name: '@idotj',
+		instance_uri: 'https://tech.lgbt/',
+		user_id: '109618355264693412',
+		profile_name: '@sarafanfare',
 		toots_limit: 13,
 		hide_reblog: false,
 		hide_replies: false,		
